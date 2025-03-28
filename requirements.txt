@@ -1,0 +1,4 @@
+ecdsa==0.17.0
+decimal
+hmac
+json
